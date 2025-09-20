@@ -36,11 +36,11 @@
   ## 🤝 Contrubution 
   Share Your Creativity Here
   
-  - #### Foke repo
+  - #### Fork repo
 
   - #### Add your Creavatiey
 
-  - ### Send Pull Request
+  - ### Pull
 
 
    
