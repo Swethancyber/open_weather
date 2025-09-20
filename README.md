@@ -7,7 +7,7 @@
 
 🖼️ Preview 
 
-![Logo](open weather/Image/open_weather_img.png)
+![Logo](https://github.com/Swethancyber/open_weather/blob/54ee54fc1c4ed24401a1d4d484f778fb49f723c7/open%20weather/Image/open_weather_img.png)
 
 
 ## Core Features
@@ -25,7 +25,7 @@
   ```
   git clone https://github.com/Swethancyber/open_weather.git
   ```
-
+ ## 🔌 Requirement
 
    ``` python pip 
    pip install requests       
